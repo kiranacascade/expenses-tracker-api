@@ -1,0 +1,8 @@
+{
+  "expenses": [
+    { "id": 1, "date": "2023-03-01", "name": "snack", "nominal": 20000, "category": "food" },
+    { "id": 2, "date": "2023-03-03", "name": "vitamin", "nominal": 50000, "category": "health" },
+    { "id": 3, "date": "2023-03-07", "name": "bioskop", "nominal": 35000, "category": "entertainment" },
+    { "id": 4, "name": "gofood mcd", "date": "2023-03-08", "nominal": 75000, "category": "food" }
+  ]
+}
